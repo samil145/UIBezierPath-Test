@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		BE9C9A9D2E037C5800B929E3 /* Exceptions for "UIBezierPath Test" folder in "UIBezierPath Test" target */ = {
+		BE9C9AEB2E037ED400B929E3 /* Exceptions for "UIBezierPath Test" folder in "UIBezierPath Test" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		BE9C9A8D2E037C5700B929E3 /* UIBezierPath Test */ = {
+		BE9C9AE32E037ED400B929E3 /* UIBezierPath Test */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				BE9C9A9D2E037C5800B929E3 /* Exceptions for "UIBezierPath Test" folder in "UIBezierPath Test" target */,
+				BE9C9AEB2E037ED400B929E3 /* Exceptions for "UIBezierPath Test" folder in "UIBezierPath Test" target */,
 			);
 			path = "UIBezierPath Test";
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		BE9C9A822E037C5700B929E3 = {
 			isa = PBXGroup;
 			children = (
-				BE9C9A8D2E037C5700B929E3 /* UIBezierPath Test */,
+				BE9C9AE32E037ED400B929E3 /* UIBezierPath Test */,
 				BE9C9A8C2E037C5700B929E3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				BE9C9A8D2E037C5700B929E3 /* UIBezierPath Test */,
+				BE9C9AE32E037ED400B929E3 /* UIBezierPath Test */,
 			);
 			name = "UIBezierPath Test";
 			packageProductDependencies = (
@@ -150,7 +150,6 @@
 				INFOPLIST_FILE = "UIBezierPath Test/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -178,7 +177,6 @@
 				INFOPLIST_FILE = "UIBezierPath Test/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
